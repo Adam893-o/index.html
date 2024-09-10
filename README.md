@@ -7,7 +7,7 @@
 
 </head>
 <body>
-	<h1>Why Jupiter is the most important planet in our solar system?</h1>
+	<h1>Why Jupiter is the most important planet in our solar system</h1>
 		<img src="Media/Image1.JPG" height="150" width="200"/>
 	<p>Written by Adam Sharifeh</p>
 	<h3>A brief history behind planet Jupiter.</h3>
@@ -20,7 +20,7 @@
 		<li>Those beautiful clouds surrounding Jupiter are actually really powerful storms around the planet.</li>
 		<li>Jupiter was named after the king og the gods in Roman Mythology. Given that Jupiter is the biggest planet, it should have that title.</li>
 		<li>Jupiter is the fastest rotating planet in the entire solar system. 1 day lasts about 9 hours.</li>
-		<li>Jupiter's magnetic field is super strong that Nasa has captured audio with the Juno spacecraft on what Jupiter sounds like.
+		<li>Jupiter's magnetic field is super strong that Nasa has captured audio with the Juno spacecraft on what Jupiter sounds like.</li>
 		<li><a href= "https://www.youtube.com/watch?v=e3fqE01YYWs"> Jupiter sounds</a></li>
 		<li>Jupiter's great red spot is the a gigsntic cyclone, larger than Earth and is a gigantiv storm that has been raging for 3 centuries.</li>
 		<li>Jupiter is often called a Gas Giant because the planet is mostly made of hydrogen and helium gas.</li>
