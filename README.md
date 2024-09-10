@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
-	<title>Why Jupiter is the Most Important Planet in Our Solar System</title>
+	
 </head>
 <body>
 	<h1>Why Jupiter is the Most Important Planet in Our Solar System</h1>
