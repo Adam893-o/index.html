@@ -14,12 +14,11 @@
 	<img src="Media/Image2.jpg" height="130" width="170" alt="Image of Jupiter" />
 	<p>Below shows an image of the marks that Jupiter recieved while destroying tons of asteroid over the many years</p>
 	<h2>Other Facts About Planet Jupiter</h2>
-	<p>Jupiter has other interesting facts that stand out above any other planet in our solar system:</p>
+	<li>Jupiter was named after the king of the gods in Roman mythology. Given that Jupiter is the biggest planet, it deserves that title.</li>
+		<img src="Media/Image3.jpg" height="120" width="200" alt="Image of Jupiter" />
+		<p>You can fit 1,000 Earths into Jupiter and that would be the size of the planet. We are very <strong>very</strong> tiny compared to space.</p>
 	<ul>
 		<li>Those beautiful clouds surrounding Jupiter are actually extremely powerful storms.</li>
-		<li>Jupiter was named after the king of the gods in Roman mythology. Given that Jupiter is the biggest planet, it deserves that title.</li>
-		<img src="Media/Image3.jpg" height="120" width="200" alt="Image of Jupiter" />
-		<li>You can fit 1,000 Earths into Jupiter and that would be the size of the planet. We are very <strong>very</strong> tiny compared to space.</li>
 		<li>Jupiter is the fastest rotating planet in the entire solar system. One day around the sun lasts about 9 1/2 hours on Earth.</li>
 		<li>Jupiter's magnetic field is so strong that NASA has captured audio with the Juno spacecraft of what Jupiter sounds like.</li>
 		<li><a href="https://www.youtube.com/watch?v=e3fqE01YYWs">Listen to Jupiter's sounds</a></li>
