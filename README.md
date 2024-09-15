@@ -14,7 +14,7 @@
 	<img src="Media/Image2.jpg" height="130" width="170" alt="Image of Jupiter" />
 	<p>Below shows an image of the marks that Jupiter recieved while destroying tons of asteroid over the many years</p>
 	<h2>Other Facts About Planet Jupiter</h2>
-	<li>Jupiter was named after the king of the gods in Roman mythology. Given that Jupiter is the biggest planet, it deserves that title.</li>
+	<p>Jupiter was named after the king of the gods in Roman mythology. Given that Jupiter is the biggest planet, it deserves that title.</p>
 		<img src="Media/Image3.jpg" height="120" width="200" alt="Image of Jupiter" />
 		<p>You can fit 1,000 Earths into Jupiter and that would be the size of the planet. We are very <strong>very</strong> tiny compared to space.</p>
 	<ul>
