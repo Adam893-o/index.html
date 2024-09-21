@@ -5,8 +5,6 @@
 	<title>Why Jupiter is the most important planet in out solar system</title>
 </head>
 <body>
-	<div class="author-info">
-	</div>
 	<h1>Why Jupiter is the Most Important Planet in Our Solar System</h1>
 	<img src="Media/Image1.jpg" height="250" width="300" alt="Image of Jupiter"/>
 	<h3>A Brief History Behind Planet Jupiter</h3>
